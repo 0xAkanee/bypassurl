@@ -19,5 +19,5 @@ function curl($url){
 $send = curl("https://lp.nrmn.top/api/bypass?url=.$ouo");
 $data = json_decode($send, TRUE);
 $url = $data["url"];
-echo "Hasil Bypass:".$url."\n";
+echo "Hasil Bypass: ".$url."\n";
 ?>
