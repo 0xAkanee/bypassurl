@@ -1,5 +1,4 @@
 <?php
-system("clear");
 echo "######################################\n";
 echo "#         Bypass Shortlink           #\n";
 echo "# Coded By Rndzx   fb.me/negevian.id #\n";
