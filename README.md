@@ -1,6 +1,6 @@
 # bypassurl
 Tools Bypass URL Short
-![short](https://user-images.githubusercontent.com/44912483/125166718-127f3480-e1c7-11eb-8d56-22bb3025446a.PNG)
+![short](https://user-images.githubusercontent.com/44912483/125179213-957bab80-e216-11eb-8b1b-f403b30bca0c.PNG)
 <pre><code>
 pkg install php
 pkg install git
