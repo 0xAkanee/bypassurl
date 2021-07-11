@@ -29,3 +29,8 @@ php url.php
 - za.gl
 - fc.lc*
 - exe.io* / exey.io*
+
+
+## Thanks You for help me
+<a href="https://github.com/LoliC0d3">LoliC0d3</a> 
+  <a href="https://github.com/akasakaid/">Akasaka ID</a>
