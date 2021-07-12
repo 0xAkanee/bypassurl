@@ -14,6 +14,14 @@ php url.php
 With Executable (support multiple URL):
 - Download executable [here](https://github.com/ClavinJune/bypassurl/releases/latest)
 
+Add permission for Linux / Mac:
+```shell
+chmod +x bypassurl-linux
+# OR
+chmod +x bypassurl-mac
+```
+
+
 ```shell
 bypassurl-linux https://bit.ly/3qMSD0k bit.ly/3qMSD0k
 # OR
