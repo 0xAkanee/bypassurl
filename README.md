@@ -1,6 +1,8 @@
 # bypassurl
 Tools Bypass URL Short
 ![short](https://user-images.githubusercontent.com/44912483/125179213-957bab80-e216-11eb-8b1b-f403b30bca0c.PNG)
+
+With PHP:
 <pre><code>
 pkg install php
 pkg install git
@@ -8,6 +10,17 @@ git clone https://github.com/rndzx/bypassurl
 cd bypassurl
 php url.php
 </code></pre>
+
+With Executable (support multiple URL):
+- Download executable [here](https://github.com/ClavinJune/bypassurl/releases/latest)
+
+```shell
+bypassurl-linux https://bit.ly/3qMSD0k bit.ly/3qMSD0k
+# OR
+bypassurl-mac https://bit.ly/3qMSD0k bit.ly/3qMSD0k
+# OR
+bypassurl-win.exe https://bit.ly/3qMSD0k bit.ly/3qMSD0k
+```
 
 ## currently supported
 - adshrink.it
